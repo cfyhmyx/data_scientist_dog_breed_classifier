@@ -27,7 +27,7 @@ Beyond the Anaconda distribution of Python, the following packages need to be in
   * keras==2.0.2
   * tensorflow==1.0.0
 
-##File Descriptuons
+## File Descriptuons
   1. bottleneck_features
     * Pre-trained features for VGG-16 and VGG-19, since the size is very big, we ignored here.
   2. haarcascades
@@ -41,7 +41,7 @@ Beyond the Anaconda distribution of Python, the following packages need to be in
   6. dog_app.ipynb
     * The notebook to build and train the dog app project.
 
-##Conclusions
+## Conclusions
 By using the transfer learning, we could take advantage of the already trained model and make improvements based on that. It saves the future developer a lot of model research and training time.
 
 Overall, the result is better than I expected. The categories (dog, human, and others) classification are all correct. For the animal fox, even it looks like a dog, the model still made a correct prediction. In the human_spaniel photo, there is a dog logo in the human’s cotta, but the model still got the right answer. For the breed prediction, all the dogs are correct. For human breed, I am also satisfied with the result since the we don’t have the absolutely correct answer.
