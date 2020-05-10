@@ -5,9 +5,9 @@
 
 ## Table of Contents
 
-  1. [Project Overview](##(Project Overview))
+  1. [Project Overview](##Project-Overview)
   2. [Installation](##Installation)
-  3. [File Descriptions](##(File Descriptuons))
+  3. [File Descriptions](##File-Descriptuons)
   4. [Conclusions](##Conclusions)
 
 ## Project Overview
